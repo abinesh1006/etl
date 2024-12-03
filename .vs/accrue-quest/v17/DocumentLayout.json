@@ -1,0 +1,1327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\refinepoint-codebase\\accrue-quest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\OutputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\OutputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataTransformationStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\DataTransformationStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\LogicBuilder.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\TransformationInput.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\TransformationModal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\DataInputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\IngestorComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\IngestorComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sideNav\\SideNav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Trading.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\trading\\Trading.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\navbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\PdfExport.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\trading\\PdfExport.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\ChartComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\trading\\ChartComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\CommodityWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\trading\\CommodityWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\EquityWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\trading\\EquityWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Filters.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\trading\\Filters.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\Process.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Process.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataTable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\DataTable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessList.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\LeftSideBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\LeftSideBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\data.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\data.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\CreateProcess.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\CreateProcess.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\OnboardingComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\OnboardingComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessHeader.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessHeader.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\Runningprocess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\Runningprocess.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RightSideBar.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\RightSideBar.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessTable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SettingsModal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\SettingsModal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessTable.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\FilesWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\FilesWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\DataWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunHistoryWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\RunHistoryWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\StatsWidget.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\StatsWidget.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunningProcess.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\RunningProcess.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SummaryWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\SummaryWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessDetail.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessDetail.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\MatchingFieldPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\MatchingFieldPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataPrepPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\DataPrepPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataInputPage.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\DataInputPage.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\CalculatedResultPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\CalculatedResultPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FilterRulesPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\FilterRulesPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadSection.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\FileUploadSection.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadOrPatternSelector.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\FileUploadOrPatternSelector.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\InputFieldsSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\InputFieldsSection.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\RuleSetPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\onboarding\\RuleSetPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\process\\ProcessTable.module.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\userCoins.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\CardGrid.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\cards\\CardGrid.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\Card.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\cards\\Card.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\HomePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\HomePage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\TasksPage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\LeaderBoard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ProfileFields.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ProfileFields.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Profile.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Roadmap.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Roadmap.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\quizContainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\quizContainer.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\QuestionCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionInfoStats.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\QuestionInfoStats.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\InfoPopup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\InfoPopup.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\AnswerOption.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\AnswerOption.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ResultCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\ResultCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\PointExhaustedComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\GridClickComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ProgressBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\ProgressBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Batterybar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Batterybar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\ClickerGame.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\BookIcon.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\AnimatedCircle.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\PROJECTS\\accrue-quest\\src\\components\\PenIcon.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\services\\userService.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\userService.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DataInputPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataInputPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\DataInputPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataInputPage.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\DataInputPage.jsx",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAQwHsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:42:18.897Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogicBuilder.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\LogicBuilder.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\LogicBuilder.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:56:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransformationInput.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\TransformationInput.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\TransformationInput.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:56:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransformationModal.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\TransformationModal.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\TransformationModal.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:56:07.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutputStage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\OutputStage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\OutputStage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\OutputStage.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\OutputStage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:47:02.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataInputStage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\DataInputStage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\DataInputStage.jsx",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAOMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:46:04.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataTransformationStage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataTransformationStage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\DataTransformationStage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataTransformationStage.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\DataTransformationStage.jsx",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAI4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:43:20.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IngestorComponent.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\IngestorComponent.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\IngestorComponent.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\IngestorComponent.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\IngestorComponent.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:41:07.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommodityWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\CommodityWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\trading\\CommodityWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\CommodityWidget.jsx",
+              "RelativeToolTip": "src\\components\\trading\\CommodityWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-24T12:41:34.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EquityWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\EquityWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\trading\\EquityWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\EquityWidget.jsx",
+              "RelativeToolTip": "src\\components\\trading\\EquityWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-24T12:41:18.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Filters.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Filters.jsx",
+              "RelativeDocumentMoniker": "src\\components\\trading\\Filters.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Filters.jsx",
+              "RelativeToolTip": "src\\components\\trading\\Filters.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-24T12:41:09.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trading.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Trading.jsx",
+              "RelativeDocumentMoniker": "src\\components\\trading\\Trading.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Trading.jsx",
+              "RelativeToolTip": "src\\components\\trading\\Trading.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-24T12:41:02.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T12:33:46.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-28T13:07:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SideNav.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sideNav\\SideNav.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx",
+              "RelativeToolTip": "src\\components\\sideNav\\SideNav.jsx",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwFoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:18:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChartComponent.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\ChartComponent.jsx",
+              "RelativeDocumentMoniker": "src\\components\\trading\\ChartComponent.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\ChartComponent.jsx",
+              "RelativeToolTip": "src\\components\\trading\\ChartComponent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-24T12:41:50.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PdfExport.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\PdfExport.jsx",
+              "RelativeDocumentMoniker": "src\\components\\trading\\PdfExport.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\PdfExport.jsx",
+              "RelativeToolTip": "src\\components\\trading\\PdfExport.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-24T12:41:57.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-24T12:33:38.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Process.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\Process.jsx",
+              "RelativeDocumentMoniker": "src\\Process.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\Process.jsx",
+              "RelativeToolTip": "src\\Process.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-23T07:13:33.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProcessPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessPage.jsx",
+              "RelativeToolTip": "src\\components\\process\\ProcessPage.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T18:57:54.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "navbar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\navbar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\navbar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\navbar.jsx",
+              "RelativeToolTip": "src\\components\\navbar.jsx",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:40:48.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "App.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-23T07:49:45.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateProcess.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\CreateProcess.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.jsx",
+              "RelativeToolTip": "src\\components\\process\\CreateProcess.jsx",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:05:21.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateProcess.module.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.module.css",
+              "RelativeDocumentMoniker": "src\\components\\process\\CreateProcess.module.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.module.css",
+              "RelativeToolTip": "src\\components\\process\\CreateProcess.module.css",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T03:08:53.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LeftSideBar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\LeftSideBar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\LeftSideBar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\LeftSideBar.jsx",
+              "RelativeToolTip": "src\\components\\process\\LeftSideBar.jsx",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-23T05:38:20.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProcessList.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessList.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessList.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessList.jsx",
+              "RelativeToolTip": "src\\components\\process\\ProcessList.jsx",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAQwFAAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:00:08.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DataTable.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataTable.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\DataTable.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataTable.jsx",
+              "RelativeToolTip": "src\\components\\process\\DataTable.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-23T05:38:40.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProcessHeader.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessHeader.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessHeader.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessHeader.jsx",
+              "RelativeToolTip": "src\\components\\process\\ProcessHeader.jsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-23T06:15:47.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-10T18:16:23.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Runningprocess.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\Runningprocess.css",
+              "RelativeDocumentMoniker": "src\\components\\process\\Runningprocess.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\Runningprocess.css",
+              "RelativeToolTip": "src\\components\\process\\Runningprocess.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-23T05:11:55.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "RightSideBar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RightSideBar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\RightSideBar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RightSideBar.jsx",
+              "RelativeToolTip": "src\\components\\process\\RightSideBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-23T05:38:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "data.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\data.jsx",
+              "RelativeDocumentMoniker": "src\\components\\data.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\data.jsx",
+              "RelativeToolTip": "src\\components\\data.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-10T18:31:13.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProcessTable.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessTable.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.jsx",
+              "RelativeToolTip": "src\\components\\process\\ProcessTable.jsx",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwGMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T18:57:47.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OnboardingComponent.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\OnboardingComponent.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\OnboardingComponent.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\OnboardingComponent.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\OnboardingComponent.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:43:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SettingsModal.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SettingsModal.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\SettingsModal.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SettingsModal.jsx",
+              "RelativeToolTip": "src\\components\\process\\SettingsModal.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-23T05:50:18.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProcessTable.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.css",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessTable.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.css",
+              "RelativeToolTip": "src\\components\\process\\ProcessTable.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-23T05:39:15.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FilesWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\FilesWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\FilesWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\FilesWidget.jsx",
+              "RelativeToolTip": "src\\components\\process\\FilesWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T19:14:00.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RunHistoryWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunHistoryWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\RunHistoryWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunHistoryWidget.jsx",
+              "RelativeToolTip": "src\\components\\process\\RunHistoryWidget.jsx",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T19:14:17.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RunningProcess.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunningProcess.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\RunningProcess.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunningProcess.jsx",
+              "RelativeToolTip": "src\\components\\process\\RunningProcess.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T19:17:38.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SummaryWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SummaryWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\SummaryWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SummaryWidget.jsx",
+              "RelativeToolTip": "src\\components\\process\\SummaryWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T19:13:37.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DataWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\DataWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataWidget.jsx",
+              "RelativeToolTip": "src\\components\\process\\DataWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T19:13:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StatsWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\StatsWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\StatsWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\StatsWidget.jsx",
+              "RelativeToolTip": "src\\components\\process\\StatsWidget.jsx",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T19:12:34.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProcessDetail.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessDetail.jsx",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessDetail.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessDetail.jsx",
+              "RelativeToolTip": "src\\components\\process\\ProcessDetail.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T18:57:36.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FileUploadSection.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadSection.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\FileUploadSection.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadSection.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\FileUploadSection.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T11:47:07.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CalculatedResultPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\CalculatedResultPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\CalculatedResultPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\CalculatedResultPage.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\CalculatedResultPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:43:47.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FilterRulesPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FilterRulesPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\FilterRulesPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FilterRulesPage.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\FilterRulesPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:43:26.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "FileUploadOrPatternSelector.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T05:20:23.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-10T18:16:17.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "InputFieldsSection.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\InputFieldsSection.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\InputFieldsSection.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\InputFieldsSection.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\InputFieldsSection.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T11:47:39.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DataPrepPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataPrepPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\DataPrepPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataPrepPage.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\DataPrepPage.jsx",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:42:39.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MatchingFieldPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\MatchingFieldPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\MatchingFieldPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\MatchingFieldPage.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\MatchingFieldPage.jsx",
+              "ViewState": "AgIAALAAAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:43:09.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "RuleSetPage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\RuleSetPage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\onboarding\\RuleSetPage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\RuleSetPage.jsx",
+              "RelativeToolTip": "src\\components\\onboarding\\RuleSetPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:43:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ProcessTable.module.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.module.css",
+              "RelativeDocumentMoniker": "src\\components\\process\\ProcessTable.module.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.module.css",
+              "RelativeToolTip": "src\\components\\process\\ProcessTable.module.css",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-22T03:00:49.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Card.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\Card.jsx",
+              "RelativeDocumentMoniker": "src\\components\\cards\\Card.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\Card.jsx",
+              "RelativeToolTip": "src\\components\\cards\\Card.jsx",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-19T04:48:31.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Roadmap.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Roadmap.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Roadmap.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Roadmap.jsx",
+              "RelativeToolTip": "src\\components\\Roadmap.jsx",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-17T04:29:07.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TasksPage.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\TasksPage.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\TasksPage.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-16T04:03:06.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\HomePage.jsx",
+              "RelativeDocumentMoniker": "src\\components\\HomePage.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\HomePage.jsx",
+              "RelativeToolTip": "src\\components\\HomePage.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-19T12:17:18.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Profile.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Profile.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Profile.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Profile.jsx",
+              "RelativeToolTip": "src\\components\\Profile.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-14T06:30:10.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "AnswerOption.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\AnswerOption.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\AnswerOption.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\AnswerOption.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\AnswerOption.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:40:44.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "quizContainer.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\quizContainer.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\quizContainer.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\quizContainer.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\quizContainer.jsx",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T13:23:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ProfileFields.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ProfileFields.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ProfileFields.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ProfileFields.jsx",
+              "RelativeToolTip": "src\\components\\ProfileFields.jsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-14T13:31:22.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CardGrid.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\CardGrid.jsx",
+              "RelativeDocumentMoniker": "src\\components\\cards\\CardGrid.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\CardGrid.jsx",
+              "RelativeToolTip": "src\\components\\cards\\CardGrid.jsx",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwGUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-19T04:48:52.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Footer.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-14T14:44:38.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "userCoins.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\userCoins.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\userCoins.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-19T13:03:18.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LeaderBoard.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\LeaderBoard.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\LeaderBoard.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-14T12:44:31.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "QuestionCard.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionCard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\QuestionCard.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionCard.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\QuestionCard.jsx",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T13:09:06.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T04:51:41.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-17T04:51:43.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "InfoPopup.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\InfoPopup.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\InfoPopup.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\InfoPopup.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\InfoPopup.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-16T16:13:47.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "QuestionInfoStats.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionInfoStats.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\QuestionInfoStats.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionInfoStats.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\QuestionInfoStats.jsx",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-16T16:53:05.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ResultCard.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ResultCard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\ResultCard.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ResultCard.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\ResultCard.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-07-10T18:18:31.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Footer.css",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.css",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-14T14:44:37.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "GridClickComponent.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\GridClickComponent.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\GridClickComponent.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T08:12:29.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "PointExhaustedComponent.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\PointExhaustedComponent.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\PointExhaustedComponent.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T13:10:10.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "BookIcon.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\BookIcon.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\BookIcon.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:11:13.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "AnimatedCircle.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\AnimatedCircle.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\AnimatedCircle.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T18:33:03.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ProgressBar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ProgressBar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\quiz\\ProgressBar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ProgressBar.jsx",
+              "RelativeToolTip": "src\\components\\quiz\\ProgressBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:45:28.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "FloatingBrain.css",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.css",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T19:34:56.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "FloatingBrain.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:33:33.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "Batterybar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Batterybar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Batterybar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Batterybar.jsx",
+              "RelativeToolTip": "src\\components\\Batterybar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:46:13.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "index.css",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\index.css",
+              "RelativeDocumentMoniker": "src\\components\\index.css",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\index.css",
+              "RelativeToolTip": "src\\components\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-10T18:16:10.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "ClickerGame.css",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\ClickerGame.css",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\ClickerGame.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-28T19:06:38.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "PenIcon.jsx",
+              "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\PenIcon.jsx",
+              "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\PenIcon.jsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T19:20:41.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "userService.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\services\\userService.jsx",
+              "RelativeDocumentMoniker": "src\\services\\userService.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\services\\userService.jsx",
+              "RelativeToolTip": "src\\services\\userService.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-06-28T13:07:09.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

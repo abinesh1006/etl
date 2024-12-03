@@ -1,0 +1,68 @@
+/* src/components/process/ProcessTable.css */
+.process-table-container {
+    width: 100%;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.process-table-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.process-table-search {
+    max-width: 300px;
+    width: 100%;
+}
+
+.process-table-search-input {
+    padding: 10px;
+    width: 100%;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.process-table-create-button {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+    .process-table-create-button:hover {
+        background-color: #45a049;
+    }
+
+.process-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .process-table th,
+    .process-table td {
+        padding: 10px;
+        text-align: left;
+        border: 1px solid #ddd;
+    }
+
+    .process-table th {
+        background-color: #f4f4f4;
+    }
+
+.process-table-actions button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #007bff;
+    margin-right: 10px;
+}
+
+    .process-table-actions button:hover {
+        color: #0056b3;
+    }

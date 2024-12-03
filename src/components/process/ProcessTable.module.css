@@ -1,0 +1,126 @@
+.tableContainer {
+    overflow-y: auto;
+    max-height: calc(80vh - 120px); /* Adjust height for toolbar and padding */
+    margin-top: 16px;
+}
+.iconCell {
+    padding: 6px 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+    display: flex; /* Use Flexbox for side-by-side layout */
+    align-items: center; /* Centers icons vertically */
+}
+
+.viewIcon, .deleteIcon {
+    cursor: pointer; /* Optional: shows that they are clickable */
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .table th,
+    .table td {
+        padding: 6px 8px; /* Reduced padding */
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+        line-height: 1.2; /* Adjust line height for smaller gap between rows */
+    }
+
+    .table thead {
+        position: sticky;
+        top: 0;
+        background-color: #f4f4f4;
+        z-index: 1;
+    }
+.success {
+    color: green;
+}
+.viewIcon,
+.deleteIcon {
+    cursor: pointer;
+    margin-left: 10px;
+    font-size: 18px;
+    color: #007bff;
+}
+
+    .viewIcon:hover,
+    .deleteIcon:hover {
+        color: #0056b3;
+    }
+
+.deleteIcon {
+    color: red;
+}
+
+.failure {
+    color: red;
+}
+
+.toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.searchBar {
+    padding: 8px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.createButton {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .createButton:hover {
+        background-color: #0056b3;
+    }
+
+.loading,
+.error,
+.noData {
+    text-align: center;
+    font-size: 16px;
+    color: #666;
+    margin: 20px 0;
+}
+
+.error {
+    color: red;
+}
+
+.noData {
+    color: #888;
+}
+.runningProcessContainer {
+    flex: 1;
+    overflow-y: auto;
+    background-color: #f7f7f7;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: card-like shadow */
+    border-radius: 8px;
+}
+
+/* Styling for the list of running processes */
+.runningProcessList {
+    list-style-type: none;
+    padding: 0;
+}
+
+    .runningProcessList li {
+        padding: 10px;
+        border-bottom: 1px solid #ddd;
+        margin-bottom: 5px;
+    }
+
+        .runningProcessList li:last-child {
+            border-bottom: none;
+        }
