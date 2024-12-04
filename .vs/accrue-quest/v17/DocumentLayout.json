@@ -3,8 +3,80 @@
   "WorkspaceRootPath": "D:\\refinepoint-codebase\\accrue-quest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ReconciliationDashboard.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ReconciliationDashboard.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessProgressBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ProcessProgressBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessStatusComponent.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ProcessStatusComponent.jsx||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\Chart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\Chart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessListWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ProcessListWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessWidget.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ProcessWidget.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\QueueWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\QueueWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\SuccessFailureWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\SuccessFailureWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\TotalCountsBarChart.jsx||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\TotalCountsBarChart.jsx||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ValidationWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ValidationWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\BarChart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\BarChart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\InProgressWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\InProgressWidget.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProgressBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboards\\ProgressBar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sideNav\\SideNav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\OutputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\OutputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\DataInputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataTransformationStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -23,20 +95,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\TransformationModal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\DataInputStage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\IngestorComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ingestor\\IngestorComponent.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\sideNav\\SideNav.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Trading.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -77,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\Process.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Process.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataTable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -259,10 +315,6 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\quiz\\QuestionCard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tailwind.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\refinepoint-codebase\\accrue-quest\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -333,11 +385,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 59,
               "Title": "DataInputPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataInputPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\DataInputPage.jsx",
@@ -346,76 +398,224 @@
               "ViewState": "AgIAAGgAAAAAAAAAAAAQwHsAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-22T03:42:18.897Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LogicBuilder.jsx",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx",
-              "RelativeDocumentMoniker": "src\\components\\ingestor\\LogicBuilder.jsx",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx",
-              "RelativeToolTip": "src\\components\\ingestor\\LogicBuilder.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-03T05:56:11.131Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TransformationInput.jsx",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx",
-              "RelativeDocumentMoniker": "src\\components\\ingestor\\TransformationInput.jsx",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx",
-              "RelativeToolTip": "src\\components\\ingestor\\TransformationInput.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "Chart.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\Chart.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\Chart.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\Chart.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\Chart.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-03T05:56:09.322Z",
+              "WhenOpened": "2024-12-03T17:37:12.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProcessWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ProcessWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessWidget.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ProcessWidget.jsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwDMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T16:12:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcessStatusComponent.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessStatusComponent.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ProcessStatusComponent.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessStatusComponent.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ProcessStatusComponent.jsx",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T16:08:47.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TotalCountsBarChart.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\TotalCountsBarChart.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\TotalCountsBarChart.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\TotalCountsBarChart.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\TotalCountsBarChart.jsx",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:39:08.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "TransformationModal.jsx",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx",
-              "RelativeDocumentMoniker": "src\\components\\ingestor\\TransformationModal.jsx",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx",
-              "RelativeToolTip": "src\\components\\ingestor\\TransformationModal.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ProcessListWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessListWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ProcessListWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessListWidget.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ProcessListWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-12-03T05:56:07.941Z",
+              "WhenOpened": "2024-12-03T15:38:54.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessProgressBar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessProgressBar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ProcessProgressBar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProcessProgressBar.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ProcessProgressBar.jsx",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:38:36.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SuccessFailureWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\SuccessFailureWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\SuccessFailureWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\SuccessFailureWidget.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\SuccessFailureWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:32:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QueueWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\QueueWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\QueueWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\QueueWidget.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\QueueWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:32:08.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ReconciliationDashboard.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ReconciliationDashboard.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ReconciliationDashboard.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ReconciliationDashboard.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ReconciliationDashboard.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:11:57.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidationWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ValidationWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ValidationWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ValidationWidget.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ValidationWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:32:41.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BarChart.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\BarChart.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\BarChart.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\BarChart.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\BarChart.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:28:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InProgressWidget.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\InProgressWidget.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\InProgressWidget.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\InProgressWidget.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\InProgressWidget.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:32:26.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProgressBar.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProgressBar.jsx",
+              "RelativeDocumentMoniker": "src\\components\\dashboards\\ProgressBar.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\dashboards\\ProgressBar.jsx",
+              "RelativeToolTip": "src\\components\\dashboards\\ProgressBar.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T15:28:16.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "OutputStage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\OutputStage.jsx",
               "RelativeDocumentMoniker": "src\\components\\ingestor\\OutputStage.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\OutputStage.jsx",
               "RelativeToolTip": "src\\components\\ingestor\\OutputStage.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-12-03T05:47:02.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 18,
               "Title": "DataInputStage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx",
               "RelativeDocumentMoniker": "src\\components\\ingestor\\DataInputStage.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataInputStage.jsx",
               "RelativeToolTip": "src\\components\\ingestor\\DataInputStage.jsx",
-              "ViewState": "AgIAALcAAAAAAAAAAAAAAOMAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC8AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-12-03T05:46:04.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "tailwind.config.js",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js",
+              "RelativeDocumentMoniker": "tailwind.config.js",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js",
+              "RelativeToolTip": "tailwind.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-17T04:51:43.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "DataTransformationStage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\DataTransformationStage.jsx",
               "RelativeDocumentMoniker": "src\\components\\ingestor\\DataTransformationStage.jsx",
@@ -428,7 +628,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "IngestorComponent.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\IngestorComponent.jsx",
               "RelativeDocumentMoniker": "src\\components\\ingestor\\IngestorComponent.jsx",
@@ -440,48 +640,119 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 28,
               "Title": "CommodityWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\CommodityWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\trading\\CommodityWidget.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\CommodityWidget.jsx",
               "RelativeToolTip": "src\\components\\trading\\CommodityWidget.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-24T12:41:34.21Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SideNav.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx",
+              "RelativeDocumentMoniker": "src\\components\\sideNav\\SideNav.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx",
+              "RelativeToolTip": "src\\components\\sideNav\\SideNav.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-11-22T03:18:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TransformationModal.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\TransformationModal.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationModal.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\TransformationModal.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:56:07.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.tsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx",
+              "RelativeDocumentMoniker": "src\\App.tsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx",
+              "RelativeToolTip": "src\\App.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-06-28T13:07:11.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "main.tsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx",
+              "RelativeDocumentMoniker": "src\\main.tsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx",
+              "RelativeToolTip": "src\\main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-24T12:33:38.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TransformationInput.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\TransformationInput.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\TransformationInput.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\TransformationInput.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:56:09.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LogicBuilder.jsx",
+              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ingestor\\LogicBuilder.jsx",
+              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ingestor\\LogicBuilder.jsx",
+              "RelativeToolTip": "src\\components\\ingestor\\LogicBuilder.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-12-03T05:56:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
               "Title": "EquityWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\EquityWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\trading\\EquityWidget.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\EquityWidget.jsx",
               "RelativeToolTip": "src\\components\\trading\\EquityWidget.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-24T12:41:18.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 30,
               "Title": "Filters.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Filters.jsx",
               "RelativeDocumentMoniker": "src\\components\\trading\\Filters.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Filters.jsx",
               "RelativeToolTip": "src\\components\\trading\\Filters.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-24T12:41:09.058Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "Trading.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\Trading.jsx",
               "RelativeDocumentMoniker": "src\\components\\trading\\Trading.jsx",
@@ -492,7 +763,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "package.json",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\package.json",
               "RelativeDocumentMoniker": "package.json",
@@ -500,73 +771,34 @@
               "RelativeToolTip": "package.json",
               "ViewState": "AgIAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-24T12:33:46.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "App.tsx",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx",
-              "RelativeDocumentMoniker": "src\\App.tsx",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.tsx",
-              "RelativeToolTip": "src\\App.tsx",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-06-28T13:07:11.079Z",
+              "WhenOpened": "2024-11-24T12:33:46.614Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SideNav.jsx",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx",
-              "RelativeDocumentMoniker": "src\\components\\sideNav\\SideNav.jsx",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\sideNav\\SideNav.jsx",
-              "RelativeToolTip": "src\\components\\sideNav\\SideNav.jsx",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAqwFoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:18:59.127Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 27,
               "Title": "ChartComponent.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\ChartComponent.jsx",
               "RelativeDocumentMoniker": "src\\components\\trading\\ChartComponent.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\ChartComponent.jsx",
               "RelativeToolTip": "src\\components\\trading\\ChartComponent.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-24T12:41:50.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 26,
               "Title": "PdfExport.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\PdfExport.jsx",
               "RelativeDocumentMoniker": "src\\components\\trading\\PdfExport.jsx",
               "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\trading\\PdfExport.jsx",
               "RelativeToolTip": "src\\components\\trading\\PdfExport.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2024-11-24T12:41:57.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "main.tsx",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx",
-              "RelativeDocumentMoniker": "src\\main.tsx",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\src\\main.tsx",
-              "RelativeToolTip": "src\\main.tsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-11-24T12:33:38.261Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 33,
               "Title": "Process.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\Process.jsx",
               "RelativeDocumentMoniker": "src\\Process.jsx",
@@ -574,11 +806,12 @@
               "RelativeToolTip": "src\\Process.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-23T07:13:33.867Z"
+              "WhenOpened": "2024-11-23T07:13:33.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 35,
               "Title": "ProcessPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessPage.jsx",
@@ -586,11 +819,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessPage.jsx",
               "ViewState": "AgIAABgAAAAAAAAAAAAAAC4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T18:57:54.53Z"
+              "WhenOpened": "2024-11-22T18:57:54.53Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 25,
               "Title": "navbar.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\navbar.jsx",
               "RelativeDocumentMoniker": "src\\components\\navbar.jsx",
@@ -598,11 +832,12 @@
               "RelativeToolTip": "src\\components\\navbar.jsx",
               "ViewState": "AgIAABgAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T19:40:48.23Z"
+              "WhenOpened": "2024-06-28T19:40:48.23Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 38,
               "Title": "App.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
@@ -610,11 +845,12 @@
               "RelativeToolTip": "src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-23T07:49:45.381Z"
+              "WhenOpened": "2024-11-23T07:49:45.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 41,
               "Title": "CreateProcess.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\CreateProcess.jsx",
@@ -622,11 +858,12 @@
               "RelativeToolTip": "src\\components\\process\\CreateProcess.jsx",
               "ViewState": "AgIAABQAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:05:21.362Z"
+              "WhenOpened": "2024-11-22T03:05:21.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 40,
               "Title": "CreateProcess.module.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\CreateProcess.module.css",
               "RelativeDocumentMoniker": "src\\components\\process\\CreateProcess.module.css",
@@ -634,11 +871,12 @@
               "RelativeToolTip": "src\\components\\process\\CreateProcess.module.css",
               "ViewState": "AgIAACkAAAAAAAAAAAAswEkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-22T03:08:53.022Z"
+              "WhenOpened": "2024-11-22T03:08:53.022Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 37,
               "Title": "LeftSideBar.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\LeftSideBar.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\LeftSideBar.jsx",
@@ -646,11 +884,12 @@
               "RelativeToolTip": "src\\components\\process\\LeftSideBar.jsx",
               "ViewState": "AgIAACoAAAAAAAAAAAAAADgAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-23T05:38:20.663Z"
+              "WhenOpened": "2024-11-23T05:38:20.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 36,
               "Title": "ProcessList.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessList.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessList.jsx",
@@ -658,11 +897,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessList.jsx",
               "ViewState": "AgIAAG4AAAAAAAAAAAAQwFAAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:00:08.162Z"
+              "WhenOpened": "2024-11-22T03:00:08.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 34,
               "Title": "DataTable.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataTable.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\DataTable.jsx",
@@ -670,11 +910,12 @@
               "RelativeToolTip": "src\\components\\process\\DataTable.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-23T05:38:40.91Z"
+              "WhenOpened": "2024-11-23T05:38:40.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 43,
               "Title": "ProcessHeader.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessHeader.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessHeader.jsx",
@@ -682,11 +923,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessHeader.jsx",
               "ViewState": "AgIAACYAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-23T06:15:47.684Z"
+              "WhenOpened": "2024-11-23T06:15:47.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 31,
               "Title": "index.html",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\index.html",
               "RelativeDocumentMoniker": "index.html",
@@ -694,11 +936,12 @@
               "RelativeToolTip": "index.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-10T18:16:23.755Z"
+              "WhenOpened": "2024-07-10T18:16:23.755Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "Runningprocess.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\Runningprocess.css",
               "RelativeDocumentMoniker": "src\\components\\process\\Runningprocess.css",
@@ -706,11 +949,12 @@
               "RelativeToolTip": "src\\components\\process\\Runningprocess.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-23T05:11:55.92Z"
+              "WhenOpened": "2024-11-23T05:11:55.92Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 45,
               "Title": "RightSideBar.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RightSideBar.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\RightSideBar.jsx",
@@ -718,11 +962,12 @@
               "RelativeToolTip": "src\\components\\process\\RightSideBar.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-23T05:38:55.281Z"
+              "WhenOpened": "2024-11-23T05:38:55.281Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 39,
               "Title": "data.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\data.jsx",
               "RelativeDocumentMoniker": "src\\components\\data.jsx",
@@ -730,11 +975,12 @@
               "RelativeToolTip": "src\\components\\data.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-10T18:31:13.898Z"
+              "WhenOpened": "2024-07-10T18:31:13.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 46,
               "Title": "ProcessTable.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessTable.jsx",
@@ -742,11 +988,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessTable.jsx",
               "ViewState": "AgIAAF0AAAAAAAAAAAAAwGMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T18:57:47.074Z"
+              "WhenOpened": "2024-11-22T18:57:47.074Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 42,
               "Title": "OnboardingComponent.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\OnboardingComponent.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\OnboardingComponent.jsx",
@@ -754,11 +1001,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\OnboardingComponent.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:43:59.593Z"
+              "WhenOpened": "2024-11-22T03:43:59.593Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 47,
               "Title": "SettingsModal.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SettingsModal.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\SettingsModal.jsx",
@@ -766,11 +1014,12 @@
               "RelativeToolTip": "src\\components\\process\\SettingsModal.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-23T05:50:18.191Z"
+              "WhenOpened": "2024-11-23T05:50:18.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 48,
               "Title": "ProcessTable.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.css",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessTable.css",
@@ -778,11 +1027,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessTable.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-23T05:39:15.714Z"
+              "WhenOpened": "2024-11-23T05:39:15.714Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 49,
               "Title": "FilesWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\FilesWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\FilesWidget.jsx",
@@ -790,11 +1040,12 @@
               "RelativeToolTip": "src\\components\\process\\FilesWidget.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T19:14:00.684Z"
+              "WhenOpened": "2024-11-22T19:14:00.684Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "RunHistoryWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunHistoryWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\RunHistoryWidget.jsx",
@@ -802,11 +1053,12 @@
               "RelativeToolTip": "src\\components\\process\\RunHistoryWidget.jsx",
               "ViewState": "AgIAABEAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T19:14:17.985Z"
+              "WhenOpened": "2024-11-22T19:14:17.985Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 53,
               "Title": "RunningProcess.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\RunningProcess.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\RunningProcess.jsx",
@@ -814,11 +1066,12 @@
               "RelativeToolTip": "src\\components\\process\\RunningProcess.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T19:17:38.326Z"
+              "WhenOpened": "2024-11-22T19:17:38.326Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 54,
               "Title": "SummaryWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\SummaryWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\SummaryWidget.jsx",
@@ -826,11 +1079,12 @@
               "RelativeToolTip": "src\\components\\process\\SummaryWidget.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T19:13:37.472Z"
+              "WhenOpened": "2024-11-22T19:13:37.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 50,
               "Title": "DataWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\DataWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\DataWidget.jsx",
@@ -838,11 +1092,12 @@
               "RelativeToolTip": "src\\components\\process\\DataWidget.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T19:13:07.927Z"
+              "WhenOpened": "2024-11-22T19:13:07.927Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "StatsWidget.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\StatsWidget.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\StatsWidget.jsx",
@@ -850,11 +1105,12 @@
               "RelativeToolTip": "src\\components\\process\\StatsWidget.jsx",
               "ViewState": "AgIAAA0AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T19:12:34.219Z"
+              "WhenOpened": "2024-11-22T19:12:34.219Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 56,
               "Title": "ProcessDetail.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessDetail.jsx",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessDetail.jsx",
@@ -862,11 +1118,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessDetail.jsx",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T18:57:36.135Z"
+              "WhenOpened": "2024-11-22T18:57:36.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 62,
               "Title": "FileUploadSection.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadSection.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\FileUploadSection.jsx",
@@ -874,11 +1131,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\FileUploadSection.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T11:47:07.574Z"
+              "WhenOpened": "2024-11-22T11:47:07.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 60,
               "Title": "CalculatedResultPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\CalculatedResultPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\CalculatedResultPage.jsx",
@@ -886,11 +1144,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\CalculatedResultPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:43:47.917Z"
+              "WhenOpened": "2024-11-22T03:43:47.917Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 61,
               "Title": "FilterRulesPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FilterRulesPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\FilterRulesPage.jsx",
@@ -898,11 +1157,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\FilterRulesPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:43:26.21Z"
+              "WhenOpened": "2024-11-22T03:43:26.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 63,
               "Title": "FileUploadOrPatternSelector.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
@@ -910,11 +1170,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\FileUploadOrPatternSelector.jsx",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAwK4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T05:20:23.07Z"
+              "WhenOpened": "2024-11-22T05:20:23.07Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 55,
               "Title": "index.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\index.css",
               "RelativeDocumentMoniker": "src\\index.css",
@@ -922,11 +1183,12 @@
               "RelativeToolTip": "src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-10T18:16:17.69Z"
+              "WhenOpened": "2024-07-10T18:16:17.69Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 64,
               "Title": "InputFieldsSection.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\InputFieldsSection.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\InputFieldsSection.jsx",
@@ -934,11 +1196,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\InputFieldsSection.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T11:47:39.274Z"
+              "WhenOpened": "2024-11-22T11:47:39.274Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 58,
               "Title": "DataPrepPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\DataPrepPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\DataPrepPage.jsx",
@@ -946,11 +1209,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\DataPrepPage.jsx",
               "ViewState": "AgIAAJIAAAAAAAAAAAAAALQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:42:39.338Z"
+              "WhenOpened": "2024-11-22T03:42:39.338Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 57,
               "Title": "MatchingFieldPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\MatchingFieldPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\MatchingFieldPage.jsx",
@@ -958,11 +1222,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\MatchingFieldPage.jsx",
               "ViewState": "AgIAALAAAAAAAAAAAAAAANIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:43:09.977Z"
+              "WhenOpened": "2024-11-22T03:43:09.977Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 65,
               "Title": "RuleSetPage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\onboarding\\RuleSetPage.jsx",
               "RelativeDocumentMoniker": "src\\components\\onboarding\\RuleSetPage.jsx",
@@ -970,11 +1235,12 @@
               "RelativeToolTip": "src\\components\\onboarding\\RuleSetPage.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-11-22T03:43:37.193Z"
+              "WhenOpened": "2024-11-22T03:43:37.193Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 66,
               "Title": "ProcessTable.module.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\process\\ProcessTable.module.css",
               "RelativeDocumentMoniker": "src\\components\\process\\ProcessTable.module.css",
@@ -982,11 +1248,12 @@
               "RelativeToolTip": "src\\components\\process\\ProcessTable.module.css",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-11-22T03:00:49.259Z"
+              "WhenOpened": "2024-11-22T03:00:49.259Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 70,
               "Title": "Card.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\Card.jsx",
               "RelativeDocumentMoniker": "src\\components\\cards\\Card.jsx",
@@ -994,11 +1261,12 @@
               "RelativeToolTip": "src\\components\\cards\\Card.jsx",
               "ViewState": "AgIAADwAAAAAAAAAAAAAwFoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-19T04:48:31.174Z"
+              "WhenOpened": "2024-07-19T04:48:31.174Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 76,
               "Title": "Roadmap.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Roadmap.jsx",
               "RelativeDocumentMoniker": "src\\components\\Roadmap.jsx",
@@ -1006,11 +1274,12 @@
               "RelativeToolTip": "src\\components\\Roadmap.jsx",
               "ViewState": "AgIAAC4AAAAAAAAAAAAAAEoAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-17T04:29:07.737Z"
+              "WhenOpened": "2024-07-17T04:29:07.737Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 72,
               "Title": "TasksPage.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\TasksPage.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\TasksPage.jsx",
@@ -1019,7 +1288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 71,
               "Title": "HomePage.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\HomePage.jsx",
               "RelativeDocumentMoniker": "src\\components\\HomePage.jsx",
@@ -1027,11 +1296,12 @@
               "RelativeToolTip": "src\\components\\HomePage.jsx",
               "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-19T12:17:18.095Z"
+              "WhenOpened": "2024-07-19T12:17:18.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 75,
               "Title": "Profile.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Profile.jsx",
               "RelativeDocumentMoniker": "src\\components\\Profile.jsx",
@@ -1039,11 +1309,12 @@
               "RelativeToolTip": "src\\components\\Profile.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-14T06:30:10.335Z"
+              "WhenOpened": "2024-07-14T06:30:10.335Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 82,
               "Title": "AnswerOption.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\AnswerOption.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\AnswerOption.jsx",
@@ -1051,11 +1322,12 @@
               "RelativeToolTip": "src\\components\\quiz\\AnswerOption.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T19:40:44.479Z"
+              "WhenOpened": "2024-06-28T19:40:44.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 77,
               "Title": "quizContainer.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\quizContainer.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\quizContainer.jsx",
@@ -1063,11 +1335,12 @@
               "RelativeToolTip": "src\\components\\quiz\\quizContainer.jsx",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAAHUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T13:23:58.455Z"
+              "WhenOpened": "2024-06-28T13:23:58.455Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 74,
               "Title": "ProfileFields.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\ProfileFields.jsx",
               "RelativeDocumentMoniker": "src\\components\\ProfileFields.jsx",
@@ -1075,11 +1348,12 @@
               "RelativeToolTip": "src\\components\\ProfileFields.jsx",
               "ViewState": "AgIAAAgAAAAAAAAAAAAmwC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-14T13:31:22.604Z"
+              "WhenOpened": "2024-07-14T13:31:22.604Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 69,
               "Title": "CardGrid.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\cards\\CardGrid.jsx",
               "RelativeDocumentMoniker": "src\\components\\cards\\CardGrid.jsx",
@@ -1087,21 +1361,23 @@
               "RelativeToolTip": "src\\components\\cards\\CardGrid.jsx",
               "ViewState": "AgIAAE8AAAAAAAAAAAAAwGUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-19T04:48:52.637Z"
+              "WhenOpened": "2024-07-19T04:48:52.637Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 67,
               "Title": "Footer.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-14T14:44:38.051Z"
+              "WhenOpened": "2024-07-14T14:44:38.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 68,
               "Title": "userCoins.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\userCoins.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\userCoins.jsx",
@@ -1110,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 73,
               "Title": "LeaderBoard.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\LeaderBoard.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\LeaderBoard.jsx",
@@ -1119,7 +1395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 78,
               "Title": "QuestionCard.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionCard.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\QuestionCard.jsx",
@@ -1127,11 +1403,12 @@
               "RelativeToolTip": "src\\components\\quiz\\QuestionCard.jsx",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAFwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T13:09:06.867Z"
+              "WhenOpened": "2024-06-28T13:09:06.867Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 79,
               "Title": "tsconfig.json",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\tsconfig.json",
               "RelativeDocumentMoniker": "tsconfig.json",
@@ -1139,23 +1416,12 @@
               "RelativeToolTip": "tsconfig.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-17T04:51:41.58Z"
+              "WhenOpened": "2024-07-17T04:51:41.58Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
-              "Title": "tailwind.config.js",
-              "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js",
-              "RelativeDocumentMoniker": "tailwind.config.js",
-              "ToolTip": "D:\\refinepoint-codebase\\accrue-quest\\tailwind.config.js",
-              "RelativeToolTip": "tailwind.config.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-07-17T04:51:43.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 81,
               "Title": "InfoPopup.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\InfoPopup.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\InfoPopup.jsx",
@@ -1163,11 +1429,12 @@
               "RelativeToolTip": "src\\components\\quiz\\InfoPopup.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-16T16:13:47.04Z"
+              "WhenOpened": "2024-07-16T16:13:47.04Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 80,
               "Title": "QuestionInfoStats.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\QuestionInfoStats.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\QuestionInfoStats.jsx",
@@ -1175,11 +1442,12 @@
               "RelativeToolTip": "src\\components\\quiz\\QuestionInfoStats.jsx",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-16T16:53:05.153Z"
+              "WhenOpened": "2024-07-16T16:53:05.153Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 83,
               "Title": "ResultCard.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ResultCard.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\ResultCard.jsx",
@@ -1187,21 +1455,23 @@
               "RelativeToolTip": "src\\components\\quiz\\ResultCard.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-07-10T18:18:31.053Z"
+              "WhenOpened": "2024-07-10T18:18:31.053Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 84,
               "Title": "Footer.css",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.css",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\footer\\Footer.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-14T14:44:37.098Z"
+              "WhenOpened": "2024-07-14T14:44:37.098Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 86,
               "Title": "GridClickComponent.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\GridClickComponent.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\GridClickComponent.jsx",
@@ -1210,7 +1480,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 85,
               "Title": "PointExhaustedComponent.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\PointExhaustedComponent.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\PointExhaustedComponent.jsx",
@@ -1219,7 +1489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 92,
               "Title": "BookIcon.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\BookIcon.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\BookIcon.jsx",
@@ -1228,7 +1498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 93,
               "Title": "AnimatedCircle.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\AnimatedCircle.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\AnimatedCircle.jsx",
@@ -1237,7 +1507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 87,
               "Title": "ProgressBar.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\quiz\\ProgressBar.jsx",
               "RelativeDocumentMoniker": "src\\components\\quiz\\ProgressBar.jsx",
@@ -1245,11 +1515,12 @@
               "RelativeToolTip": "src\\components\\quiz\\ProgressBar.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T19:45:28.138Z"
+              "WhenOpened": "2024-06-28T19:45:28.138Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 90,
               "Title": "FloatingBrain.css",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.css",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.css",
@@ -1258,7 +1529,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 89,
               "Title": "FloatingBrain.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\FloatingBrain.jsx",
@@ -1267,7 +1538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 88,
               "Title": "Batterybar.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\Batterybar.jsx",
               "RelativeDocumentMoniker": "src\\components\\Batterybar.jsx",
@@ -1275,11 +1546,12 @@
               "RelativeToolTip": "src\\components\\Batterybar.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T19:46:13.652Z"
+              "WhenOpened": "2024-06-28T19:46:13.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 94,
               "Title": "index.css",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\components\\index.css",
               "RelativeDocumentMoniker": "src\\components\\index.css",
@@ -1287,11 +1559,12 @@
               "RelativeToolTip": "src\\components\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-10T18:16:10.828Z"
+              "WhenOpened": "2024-07-10T18:16:10.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 91,
               "Title": "ClickerGame.css",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\ClickerGame.css",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\ClickerGame.css",
@@ -1300,7 +1573,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 95,
               "Title": "PenIcon.jsx",
               "DocumentMoniker": "E:\\PROJECTS\\accrue-quest\\src\\components\\PenIcon.jsx",
               "ToolTip": "E:\\PROJECTS\\accrue-quest\\src\\components\\PenIcon.jsx",
@@ -1309,7 +1582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 96,
               "Title": "userService.jsx",
               "DocumentMoniker": "D:\\refinepoint-codebase\\accrue-quest\\src\\services\\userService.jsx",
               "RelativeDocumentMoniker": "src\\services\\userService.jsx",
@@ -1317,7 +1590,8 @@
               "RelativeToolTip": "src\\services\\userService.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2024-06-28T13:07:09.367Z"
+              "WhenOpened": "2024-06-28T13:07:09.367Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -10,10 +10,10 @@ const SideNavBar = () => {
     const buttons = [
         { name: 'Home', routeUrl: '/', icon: 'fa-solid fa-home' },
         { name: 'Quiz', routeUrl: '/ingestor/123', icon: 'fa-solid fa-exchange-alt' },
-        { name: 'Trading', routeUrl: '/trading', icon: 'fa-solid fa-user-friends' },
+        { name: 'Queue', routeUrl: '/queue', icon: 'fa-solid fa fa-area-chart' },
         { name: 'Process', routeUrl: '/process', icon: 'fa-solid fa-briefcase' }
     ];
-
+  
     // Toggle sidebar
     const toggleSidebar = () => {
         setIsCollapsed(!isCollapsed);

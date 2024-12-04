@@ -9,6 +9,7 @@ import ProcessList from './components/process/ProcessList'; // Import ProcessLis
 import CreateProcess from './components/process/CreateProcess'; // Importing ProcessPage
 import OnboardingComponent from "./components/onboarding/OnboardingComponent";
 import IngestorComponent from "./components/ingestor/IngestorComponent";
+import ReconciliationDashboard from "./components/dashboards/ReconciliationDashboard";
 
 const App = () => {
   return (
@@ -24,7 +25,9 @@ const App = () => {
               <Route path="/" element={<div>Home Page</div>} />
               <Route path="/profile" element={<div>Profile Page</div>} />
               <Route path="/settings" element={<div>Settings Page</div>} />
-               <Route path="/process" element={<ProcessList />} />
+                          <Route path="/process" element={<ProcessList />} />
+                          <Route path="/queue" element={<ReconciliationDashboard />} />
+
                           <Route path="/createprocess" element={<CreateProcess />} />
                 <Route path="/ingestor/:fileCode" element={<IngestorComponent />} />
               <Route path="/onboarding/:processId" element={<OnboardingComponent />} />

@@ -3,9 +3,9 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\ingestor",
+    "\\src\\components\\dashboards",
     "\\src\\components\\sideNav"
   ],
-  "SelectedNode": "\\src\\components\\ingestor\\OutputStage.jsx",
+  "SelectedNode": "\\src\\components\\dashboards\\ReconciliationDashboard.jsx",
   "PreviewInSolutionExplorer": false
 }
